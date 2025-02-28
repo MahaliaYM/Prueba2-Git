@@ -1,2 +1,3 @@
 Esto es una prueba para generar conflicto
 Esta es una modificación en la rama1
+Esto es una modificación de la rama 2
